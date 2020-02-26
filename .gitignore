@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+_app/node/token.json
+yarn.lock
+
+# next
+.next
+out
+
+# ndenv
+.node-version
+
+# IDE
+.idea
